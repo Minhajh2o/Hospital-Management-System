@@ -1,0 +1,15 @@
+Rumana
+001
+Dinajpur
+0123456789
+Pediatrics
+Abtahi Waliullah
+002
+Dinajpur
+0123456789
+Surgery
+Sajid Rahman
+003
+Dinajpur
+1234567890
+Cardiology
